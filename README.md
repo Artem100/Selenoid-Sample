@@ -19,13 +19,13 @@ curl -s https://aerokube.com/cm/bash | bash \
 ./cm selenoid start
 ./cm selenoid-ui start
 ```
-3. For creation of configuration the browsers go to: ```/.aerokube/selenoid/browsers.json```
-4. To open the UI panel Selenoid:
+3. For creation or configuration the browsers go to: ```/.aerokube/selenoid/browsers.json```
+4. Open UI panel Selenoid in your browser:
 ```
 http://ip_address:8080/#/
 ```
 ![Selenoid_UI](https://i.ibb.co/F6863f7/809.png)
-5. To make settings for tests: go to Capabilities page, select the language and browser to run the test.
+5. To make settings for tests: click on *Capabilities* button, select the language and browser to run the test.<br>
 6. Copy code to test.
 
 ## Project
