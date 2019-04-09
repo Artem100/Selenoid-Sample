@@ -28,7 +28,7 @@ http://ip_address:8080/#/
 5. To make settings for tests: go to Capabilities page, select the language and browser to run the test.
 6. Copy code to test.
 
-##Project
+## Project
 To run this project:
 1. Open Selenoid UI:
 ```
